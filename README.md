@@ -1,4 +1,4 @@
-![Muhammad Daffa Najib Fikri, full-stack developer](assets/hero.svg)
+![Muhammad Daffa Najib Fikri, full-stack developer](assets/hero-editorial.svg)
 
 I build web apps from interface to database. I’m a student at Politeknik IDN Bogor with internship experience at DumbWays Indonesia and SultanTV.
 
