@@ -46,4 +46,4 @@ I build web apps from interface to database. I’m a student at Politeknik IDN B
 
 ![Let’s connect](assets/engineering/contact.svg)
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [Portfolio](https://dappa.my.id/)
+[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [GitHub repositories](https://github.com/daffa102?tab=repositories)
