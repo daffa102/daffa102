@@ -6,25 +6,24 @@ I build web apps from interface to database. I’m a student at Politeknik IDN B
 
 ## Selected work
 
-### [Kopora ↗](https://github.com/daffa102/apps-kasir-dumbways)
+<p>
+  <a href="https://github.com/daffa102/apps-kasir-dumbways"><img width="48%" alt="Kopora — café POS with an orders API and a live barista board" src="assets/work/kopora.svg"></a>
+  <a href="https://interupsi.co.id/"><img width="48%" alt="Interupsi — news portal with an editorial publishing workflow" src="assets/work/interupsi.svg"></a>
+</p>
+<p>
+  <a href="https://github.com/daffa102/alibi--app"><img width="48%" alt="Alibi — incoming-call simulation with scenario audio" src="assets/work/alibi.svg"></a>
+  <a href="https://cibaduy.com/"><img width="48%" alt="Cibaduy — company profile website built with Next.js" src="assets/work/cibaduy.svg"></a>
+</p>
 
-Café POS in development. The Express API handles orders and payments, and a live barista board tracks tickets from preparation to pickup.  
-`React` `Express` `Prisma` `Socket.IO`
+<details>
+<summary>Project details and stack</summary>
 
-### [Interupsi ↗](https://interupsi.co.id/)
+- **Kopora** · Café POS in development with an order and payment API and a live barista board. React, Express, Prisma, Socket.IO.
+- **Interupsi** · News portal for drafting, publishing, and managing articles. Laravel, Livewire, Filament.
+- **Alibi** · Incoming-call simulation with scenario audio, Supabase sign-in, and Midtrans checkout. Next.js, Supabase, Midtrans.
+- **Cibaduy** · Company profile website built during my internship at SultanTV. Next.js.
 
-News portal with an editorial workflow for drafting, publishing, and managing articles.  
-`Laravel` `Livewire` `Filament`
-
-### [Alibi ↗](https://github.com/daffa102/alibi--app)
-
-Incoming-call simulation with scenario audio, Supabase sign-in, and Midtrans checkout.  
-`Next.js` `Supabase` `Midtrans`
-
-### [Cibaduy ↗](https://cibaduy.com/)
-
-Company profile website built during my internship at SultanTV.  
-`Next.js`
+</details>
 
 ## Technical toolkit
 
