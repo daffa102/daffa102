@@ -1,60 +1,41 @@
-![Daffa Najib — full-stack developer](assets/hero.svg)
+![Muhammad Daffa Najib Fikri, full-stack developer](assets/hero.svg)
 
-# Muhammad Daffa Najib Fikri
+I build web apps from interface to database. I’m a student at Politeknik IDN Bogor with internship experience at DumbWays Indonesia and SultanTV.
 
-Full-stack developer and student at Politeknik IDN Bogor. I build web applications across the UI, API, and database, with recent work in café operations, digital publishing, and interactive web experiences.
-
-[Selected work](#selected-work) · [Toolkit](#technical-toolkit) · [Experience](#experience) · [Contact](#contact)
+[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [Portfolio](https://dappa.my.id/)
 
 ## Selected work
 
-### Kopora · Café point of sale
+### [Kopora ↗](https://github.com/daffa102/apps-kasir-dumbways)
 
-A café POS in development. The backend handles orders, menu data, and cash and QRIS payment flows. The current web client includes sign-in and a live barista board for progressing and archiving tickets.
+Café POS in development. The Express API handles orders and payments, and a live barista board tracks tickets from preparation to pickup.  
+`React` `Express` `Prisma` `Socket.IO`
 
-`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO`
+### [Interupsi ↗](https://interupsi.co.id/)
 
-[Explore the repository](https://github.com/daffa102/apps-kasir-dumbways)
+News portal with an editorial workflow for drafting, publishing, and managing articles.  
+`Laravel` `Livewire` `Filament`
 
-### Interupsi · News publishing
+### [Alibi ↗](https://github.com/daffa102/alibi--app)
 
-A news portal with an editorial workflow for writing, publishing, and managing articles.
+Incoming-call simulation with scenario audio, Supabase sign-in, and Midtrans checkout.  
+`Next.js` `Supabase` `Midtrans`
 
-`Laravel` `Blade` `Livewire` `Filament`
+### [Cibaduy ↗](https://cibaduy.com/)
 
-[Visit Interupsi](https://interupsi.co.id/)
-
-### Alibi · Call simulation
-
-A web app that simulates incoming calls using scenario audio. The project includes Supabase sign-in and a Midtrans checkout integration.
-
-`Next.js` `TypeScript` `Supabase` `Midtrans`
-
-[Explore the repository](https://github.com/daffa102/alibi--app)
-
-### Cibaduy · Company profile
-
-A company profile website built with Next.js during my internship at SultanTV.
-
+Company profile website built during my internship at SultanTV.  
 `Next.js`
-
-[Visit Cibaduy](https://cibaduy.com/)
 
 ## Technical toolkit
 
-- **Frontend** · TypeScript, React, Next.js, Tailwind CSS
-- **Backend** · Express, PHP, Laravel, REST APIs, Socket.IO
-- **Data** · PostgreSQL, MySQL, Prisma, Supabase
-- **Development** · Git, GitHub, Zod
+**Frontend** · TypeScript, React, Next.js, Tailwind CSS  
+**Backend** · Express, PHP, Laravel, REST APIs, Socket.IO  
+**Data and tools** · PostgreSQL, MySQL, Prisma, Supabase, Git, Zod
 
 ## Experience
 
-**Full Stack Developer Intern · PT DumbWays Indonesia**  
-Oct–Dec 2026 · Worked on Kopora and Alibi across frontend and backend.
+**PT DumbWays Indonesia** · Full Stack Developer Intern · Oct–Dec 2026  
+Worked on Kopora and Alibi across frontend and backend.
 
-**Full Stack Developer Intern · SultanTV**  
-Jul–Sep 2026 · Built the Interupsi news portal and the Cibaduy company profile.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [Portfolio](https://dappa.my.id/)
+**SultanTV** · Full Stack Developer Intern · Jul–Sep 2026  
+Built the Interupsi news portal and Cibaduy company profile.
