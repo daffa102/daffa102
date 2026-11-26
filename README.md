@@ -1,40 +1,49 @@
-![Muhammad Daffa Najib Fikri, full-stack developer](assets/hero-editorial.svg)
+<p><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffa102/daffa102/main/assets/engineering/hero-light.svg">
+  <img width="100%" alt="Muhammad Daffa Najib Fikri, full-stack developer" src="assets/engineering/hero-dark.svg">
+</picture></p>
 
-I build web apps from interface to database. I’m a student at Politeknik IDN Bogor with internship experience at DumbWays Indonesia and SultanTV.
+I build web apps from interface to database. I’m a student at Politeknik IDN Bogor with full-stack internship experience at DumbWays Indonesia and SultanTV.
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [Portfolio](https://dappa.my.id/)
+[Selected work](#selected-work) · [Toolkit](#technical-toolkit) · [Experience](#experience) · [Contact](#contact)
 
 ## Selected work
 
-<p>
-  <a href="https://github.com/daffa102/apps-kasir-dumbways"><img width="48%" alt="Kopora — café POS with an orders API and a live barista board" src="assets/work/kopora.svg"></a>
-  <a href="https://interupsi.co.id/"><img width="48%" alt="Interupsi — news portal with an editorial publishing workflow" src="assets/work/interupsi.svg"></a>
+<a href="https://github.com/daffa102/apps-kasir-dumbways"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/daffa102/daffa102/main/assets/engineering/kopora-mobile.svg"><img width="100%" alt="Kopora, café point of sale. View the repository." src="assets/engineering/kopora-feature.svg"></picture></a>
+
+**Kopora** · A café POS in development. The Express API handles orders, menus, and cash or QRIS payment flows. A live barista board tracks paid tickets through preparation and pickup.  
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO`
+
+<p align="center">
+  <a href="https://interupsi.co.id/"><img width="260" alt="Interupsi, news publishing portal. Visit website." src="assets/engineering/interupsi.svg"></a>
+  <a href="https://github.com/daffa102/alibi--app"><img width="260" alt="Alibi, incoming-call simulation. View the repository." src="assets/engineering/alibi.svg"></a>
+  <a href="https://cibaduy.com/"><img width="260" alt="Cibaduy, Next.js company profile. Visit website." src="assets/engineering/cibaduy.svg"></a>
 </p>
-<p>
-  <a href="https://github.com/daffa102/alibi--app"><img width="48%" alt="Alibi — incoming-call simulation with scenario audio" src="assets/work/alibi.svg"></a>
-  <a href="https://cibaduy.com/"><img width="48%" alt="Cibaduy — company profile website built with Next.js" src="assets/work/cibaduy.svg"></a>
-</p>
 
-<details>
-<summary>Project details and stack</summary>
-
-- **Kopora** · Café POS in development with an order and payment API and a live barista board. React, Express, Prisma, Socket.IO.
-- **Interupsi** · News portal for drafting, publishing, and managing articles. Laravel, Livewire, Filament.
-- **Alibi** · Incoming-call simulation with scenario audio, Supabase sign-in, and Midtrans checkout. Next.js, Supabase, Midtrans.
-- **Cibaduy** · Company profile website built during my internship at SultanTV. Next.js.
-
-</details>
+- **[Interupsi](https://interupsi.co.id/)** · News portal with an editorial publishing workflow. `Laravel` `Livewire` `Filament`
+- **[Alibi](https://github.com/daffa102/alibi--app)** · Incoming-call simulation with scenario audio. `Next.js` `Supabase` `Midtrans`
+- **[Cibaduy](https://cibaduy.com/)** · Company profile website built at SultanTV. `Next.js`
 
 ## Technical toolkit
 
-**Frontend** · TypeScript, React, Next.js, Tailwind CSS  
-**Backend** · Express, PHP, Laravel, REST APIs, Socket.IO  
-**Data and tools** · PostgreSQL, MySQL, Prisma, Supabase, Git, Zod
+<img width="30" height="30" alt="" src="assets/engineering/frontend.svg"> &nbsp; **Frontend** · TypeScript, React, Next.js, Tailwind CSS
+
+<img width="30" height="30" alt="" src="assets/engineering/backend.svg"> &nbsp; **Backend** · Express, PHP, Laravel, REST APIs, Socket.IO
+
+<img width="30" height="30" alt="" src="assets/engineering/data.svg"> &nbsp; **Data & tools** · PostgreSQL, MySQL, Prisma, Supabase, Git, Zod
 
 ## Experience
 
-**PT DumbWays Indonesia** · Full Stack Developer Intern · Oct–Dec 2026  
-Worked on Kopora and Alibi across frontend and backend.
+![Internship timeline from July to December 2026](assets/engineering/timeline.svg)
 
-**SultanTV** · Full Stack Developer Intern · Jul–Sep 2026  
-Built the Interupsi news portal and Cibaduy company profile.
+> **SultanTV** · Full Stack Developer Intern · Jul–Sep 2026  
+> Built the Interupsi news portal and Cibaduy company profile.
+
+> **PT DumbWays Indonesia** · Full Stack Developer Intern · Oct–Dec 2026  
+> Worked on Kopora and Alibi across frontend and backend.
+
+## Contact
+
+![Let’s connect](assets/engineering/contact.svg)
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-daffa-najib-fikri/) · [Portfolio](https://dappa.my.id/)
